@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Flight of the Amazon Queen (CD DOS).scummvm</path>
+		<name>Flight of the Amazon Queen</name>
+		<desc>Joe King is the hero of this point and click adventure. His plane is carrying actress Faye Russell when it crash lands in a remote jungle, and he must battle through 100 screens of adventure and puzzle. The game's feel is influenced by hammy B-movies, and the characters are quite stereotyped and comic. As standard in point and click adventures, a set of icons at the bottom of the screen allow you to interact with visible characters and items in the main view area.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Interactive Binary Illusions</developer>
+		<publisher>Renegade Software</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+</gameList>

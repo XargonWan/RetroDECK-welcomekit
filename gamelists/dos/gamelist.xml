@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Liero.dosz</path>
+		<name>Liero</name>
+		<desc>Liero is like Worms but with players battling in realtime instead of turn-based.At the start of the game, each player chooses 5 weapons from a vast weapons array, 40 in total. The weapons range from simple pistols and shotguns to bazookas and the ever deadly cluster bombs (known in the game as the chiquita bomb)Players can dig through mud, jump and throw ninja ropes to navigate through the area. The players must seek each other out and destroy the opposing player. When a worm is hit, ridiculous amounts of blood spurts around. All weapons have infinite ammo, however they do need to be reloaded after emptying a clip. Reloading takes a few seconds, and during this time the player cannot fire. The more powerful a weapons is, the sooner it needs to be reloaded, sometimes after every single shot.During the game, players can pick up crates with weapon power-ups. When collected, the weapon power-up replaces whatever weapon is in the active weapon slot.
+</desc>
+		<developer>Freeware</developer>
+		<publisher>Freeware</publisher>
+		<genre>Shooter / 3rd person</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./One Must Fall 2097.dosz</path>
+		<name>One Must Fall 2097</name>
+		<desc>One Must Fall 2097 is a fighting game with a twist. Instead of the usual Street Fighter II trend of games, in this game you play one of 10 characters controlling one of 10 huge robots in a fighting match.According to the game, in the year 2097, the human race is controlled by one company known as W.A.R., which started as a small company providing the Earth government with construction robots. After a while W.A.R. grew further and further and eventually took over Earth Gov.In the year 2097, W.A.R. decided to colonize Ganymede, one of Jupiter's moons. Because of the harsh climate and difficult terrain, they sought for one person, the best of the best, to rule Ganymede for them. They've decided the best way to choose this person is to organize a huge contest, in which the winner will earn a seat in the W.A.R. high counsel and control of Ganymede.You're one of the contestants, and you want to win.
+</desc>
+		<releasedate>19941001T000000</releasedate>
+		<developer>Diversions Entertainment</developer>
+		<publisher>Epic Games</publisher>
+		<genre>Fight / 2D</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Star Control II.dosz</path>
+		<name>Star Control II</name>
+		<desc>Following the on-going war of the first Star Control game, the Alliance has lost. The Ur-Quan armada systematically hunts down the alliance races and imprisons them onto their homeworlds, including Earth. However unknown to the Ur-Quan, during the war, a small research vessel had been lost while sent to a distant star system looking for evidence of the ancient Precursor race. The survivors of this research team had come across the controls to a Starship factory and used it to build a Precursor supply vessel: one of the largest vessels in the galaxy. It's time for these Terrans to return to Earth...
+
+Star Control II is a game based on exploration, space combat, diplomacy and resource gathering. Your main starship is the Precursor vessel and it can be used to travel between star systems; this uses up fuel. Raw materials are used as currency to make purchases in your space station headquarters; you can buy fuel, as well as improve your starship, buy smaller ships to accompany the starship as a fleet (to fight enemies), and hire crewmembers (who represent the ''health'' of your ships). 
+
+Raw materials are found on surfaces of planets and moons throughout the galaxy; you have to send a landing module to the planet and then guide it around the surface as it picks up the materials you found earlier with your scanner. Each planet is unique in the type of minerals and metals it is formed of. Some planets are plagued by natural dangers such as lightning storms, earthquakes or lava which can damage or destroy your landing modules. Non-sentient lifeforms can also be found and stunned to obtain biological samples. Special installations, objects and ruins can also be found on certain planets and explored. 
+
+While in ''deep space'', your starship can approach any star you come across, and then you can guide your ship around its system and land on its planets and their moons. Space is treated as two-dimensional and presented in a top-down view. There is also a starmap available which shows the entire galaxy and allows you to set your ship on auto-pilot to any star. 
+
+Throughout space are different alien civilizations. These are represented on the starmap by a sphere of influence. Within the sphere, the aliens have a controlling presence and their ships will venture freely. Outside the sphere, encounters are rarer. Aliens can be dealt with diplomatically, through a series of dialog options, or in combat. 
+
+Combat utilizes the same engine as the first Star Control game, where action is controlled from a top view and influenced by the gravity of nearby planets. Each alien vessel has unique abilities. Combat can also be played as a standalone game (''melee mode''), separate from the main storyline.</desc>
+		<developer>Toys For Bob</developer>
+		<publisher>Accolade</publisher>
+		<genre>Strategy</genre>
+	</game>
+	<game>
+		<path>./Xargon.dosz</path>
+		<name>Xargon</name>
+		<desc>An archaeologist named Malvineous Havershim was studying strange ruins in Madagascar, remnants of buildings constructed during the age of a long-forgotten civilization of the mysterious Blue Builders. One day Malvineous spotted glyphs on one of the structures. As he attempted to translate them, Malvineous was hit by a wave of gas and fainted. In his dream, a talking eagle named Silvertongue tried to warn him of upcoming dangers. The archaeologist awoke in a strange and hostile world, unable to understand anything. With Silvertongue's guidance, Malvineous will have to overcome all dangers and eventually confront Xargon, the tyrannical ruler of that world.Xargon is a 2D side-scrolling action platformer. Malvineous is initially equipped with a basic laser gun, which can be upgraded by collecting power-ups or buying upgrades in a store. These include extra laser bullets, rapid-fire mode, limited-ammo fireballs, and others. The gun can be controlled by pressing up or down arrow keys, making it slightly advance upwards or downwards. The store can be accessed at any time, provided the player has collected a sufficient amount of emeralds, which act as currency. Health units, invincibility power-ups, and weapon upgrades can be purchased.This game entry refers to the registered version of the game with its three episodes:  Xargon: The Mystery of the Blue Builders - Beyond Reality  Xargon: The Mystery of the Blue Builders - The Secret Chamber  Xargon: The Mystery of the Blue Builders - Xargon's FuryThe first episode was available as shareware with the option to register for the other two, but in the US all three were also released separately and commercially by B&amp;N Companies, Inc. In 2008 the entire game was made available as freeware.
+</desc>
+		<developer>Epic Games</developer>
+		<publisher>Epic Games</publisher>
+	</game>
+	<game>
+		<path>./Jazz Jackrabbit (Shareware).dosz</path>
+		<name>Jazz Jackrabbit (Shareware)</name>
+		<desc>Jazz Jackrabbit is a series of platform video games featuring the eponymous character, Jazz Jackrabbit, a green anthropomorphic hare, who fights with his nemesis, Devan Shell, in a science fiction parody of the fable, The Tortoise and the Hare. Created by Arjan Brussee and Cliff Bleszinski and developed by Epic Games, the series debuted on MS-DOS in 1994 with Jazz Jackrabbit.</desc>
+		<rating>0.8</rating>
+		<releasedate>19940801T000000</releasedate>
+		<developer>Epic MegaGames</developer>
+		<publisher>Epic Games</publisher>
+		<genre>Platform / Shooter Scrolling</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Little Big Adventure 2 (Demo).dosz</path>
+		<name>Little Big Adventure 2 (Demo)</name>
+		<desc>Twinsen, the plucky hero of Relentless, returns to face his greatest challenge ever. 
+
+When strange aliens arrive from a neighboring planet and begin kidnapping magicians and children, Twinsen uncovers a diabolical plot to obliterate his homeworld. 
+
+In an epic adventure that will propel him across the galaxy, Twinsen must defeat the aliens and their evil god, the Dark Monk, to save his planet.</desc>
+		<rating>0.9</rating>
+		<releasedate>19970501T000000</releasedate>
+		<developer>Adeline Software International</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20230516T085915</lastplayed>
+	</game>
+</gameList>
