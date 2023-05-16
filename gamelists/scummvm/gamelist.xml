@@ -11,4 +11,17 @@
 		<genre>Adventure</genre>
 		<players>1</players>
 	</game>
+	<game>
+		<path>./Beneath a Steel Sky (DOS CD VGA).scummvm</path>
+		<name>Beneath A Steel Sky</name>
+		<desc>Beneath A Steel Sky (BASS) is set in a post-apocalyptic Australia where you're an orphan living with a tribe in the wastelands the 'gap' when a helicopter comes to take you to the enormous Union City. The game starts with the helicopter crashing down in the city and you making your escape into one of the large tall plants. Your goal? To discover who you really are and why you were taken to the city.</desc>
+		<rating>0.9</rating>
+		<releasedate>19940301T000000</releasedate>
+		<developer>Revolution Software</developer>
+		<publisher>Virgin</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20230516T155747</lastplayed>
+	</game>
 </gameList>
